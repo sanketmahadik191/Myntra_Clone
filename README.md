@@ -33,7 +33,7 @@ https://sanketmahadik191.github.io/Myntra_Clone/
 - Sanket Mahadik - Kids
 - Sonu Kumar - Home and Living
 - Namisha Gurunani - Beauty
-- Rakesh Gupta - Footer
+- Rakesh Gupta - Footer and Owl Carousel
 <hr>
 
 ## Sections 
